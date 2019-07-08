@@ -1,0 +1,23 @@
+IA
+
+un ensemble de techniques et de théories complexes mises en œuvre pour “remplacer” l’action humaine. En d’autres termes, le but étant de créer des robots et machines capables de simuler l’intelligence humaine et de donner des résultats performants en temps record. 
+
+
+Les RISQUES de l'IA
+éthique, sécurité, juridique, monopole et centralisation des données.
+
+Les voitures autonomes -> accidents
+
+Algorithmes tueurs -> armes autonomes, robots tueurs.
+
+Reconnaissance faciale -> surveillance technologique de masse
+
+Permutation intelligente de visages -> retoucher des séquences et les rependre (fakes news) Deep fake.
+
+Discrimination algorithmique -> des algorithmes entraînés à partir de données inégalitaires reproduisent les stéréotypes et les discriminations de nos sociétés. Un manque de diversité qui se retrouve dans le secteur de l’IA où les femmes, par exemple, sont sous-représentées. 
+
+La manipulation politique -> orienter la communication / informations afin de nous influencer, propagande poussée. 
+
+Marché du travail :
+
+Risque scientifique -> travail des chercheurs scientifiques remplacé par la IA.
